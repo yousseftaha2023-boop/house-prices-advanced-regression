@@ -2,7 +2,7 @@
 
 A leakage-aware linear regression pipeline for the Kaggle [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competition. The project focuses on careful data cleaning, feature engineering, and statistically grounded feature selection rather than on model complexity.
 
-**Public leaderboard score:** ~0.169 (RMSE on log-transformed `SalePrice`)
+**Public leaderboard score:** ~0.1403 (RMSE on log-transformed `SalePrice`)
 
 ## Overview
 
